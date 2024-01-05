@@ -1,4 +1,5 @@
-{
+ [
+    {
         name: 'Ziya-ul Rehman',
         role: 'Lead',
         image: '',
@@ -148,3 +149,5 @@
         bio: `I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics`,
         email: 'sahilk@copycodecommunity.org',
     },
+
+]
