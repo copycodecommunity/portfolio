@@ -80,12 +80,22 @@
       "email": "sahilk@copycodecommunity.org"
    },
    {
-      "name": "Zubiya",
+      "name": "Zubiya Azeem",
       "role": "Graphics",
       "image": "",
-      "insta": "",
-      "LinkedIn": "",
-      "GitHub": "",
+      "insta": "https://www.instagram.com/azeem_zubi_3",
+      "LinkedIn": "https://www.linkedin.com/in/zubiya-azeem-40054a24a",
+      "GitHub": "https://github.com/ZubiyaAzeem",
+      "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
+      "email": "sahilk@copycodecommunity.org"
+   },
+   {
+      "name": "Shubhangi Pundir",
+      "role": "Graphics",
+      "image": "",
+      "insta": "https://www.instagram.com/shubhangipundir/",
+      "LinkedIn": "https://www.linkedin.com/in/shubhangipundir",
+      "GitHub": "https://github.com/ZubiyaAzeem",
       "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
       "email": "sahilk@copycodecommunity.org"
    },
