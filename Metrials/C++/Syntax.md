@@ -1,5 +1,3 @@
-Certainly! Here are some fundamental syntax elements in C++ with explanations:
-
 1. **Comments:**
    ```cpp
    // This is a single-line comment
