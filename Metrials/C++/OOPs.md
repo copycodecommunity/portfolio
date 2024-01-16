@@ -237,6 +237,97 @@ Object-Oriented Programming (OOP) is a programming paradigm that uses objects an
     // Smart pointers (C++11 and later)
     std::unique_ptr<int> smartPointer = std::make_unique<int>(42);
     ```
+In C++, a `friend` function or class is a mechanism that allows external entities to access private and protected members of a class. When it comes to virtual functions and friend classes, there are a few key considerations:
+
+### Friend Class:
+
+A friend class is a class that is granted access to the private and protected members of another class. When a class declares another class as its friend, the friend class can access private and protected members of the declaring class. Here's an example:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class B; // Forward declaration
+
+class A {
+private:
+    int privateMemberA;
+
+    friend class B; // B is a friend class
+
+public:
+    A() : privateMemberA(10) {}
+
+    void display() {
+        cout << "Class A - Private Member: " << privateMemberA << endl;
+    }
+};
+
+class B {
+public:
+    void accessPrivateMember(A &objA) {
+        // Friend class B can access private members of class A
+        cout << "Class B accessing private member of class A: " << objA.privateMemberA << endl;
+    }
+};
+
+int main() {
+    A objA;
+    B objB;
+
+    objA.display(); // Class A function accessing its own private member
+
+    objB.accessPrivateMember(objA); // Class B accessing private member of class A
+
+    return 0;
+}
+```
+
+### Friend Function and Virtual Function:
+
+When a friend function is a virtual function, it implies that the friend function can be overridden in a derived class. However, the friend function itself is not subject to polymorphism because it's not a member of the class it is accessing. Here's a simple example:
+
+```cpp
+#include <iostream>
+using namespace std;
+
+class A;
+
+class B {
+public:
+    virtual void accessPrivateMember(A &objA); // Friend function declaration
+};
+
+class A {
+private:
+    int privateMemberA;
+
+    friend void B::accessPrivateMember(A &objA); // Friend function B::accessPrivateMember
+
+public:
+    A() : privateMemberA(10) {}
+
+    void display() {
+        cout << "Class A - Private Member: " << privateMemberA << endl;
+    }
+};
+
+void B::accessPrivateMember(A &objA) {
+    // Friend function B::accessPrivateMember can access private members of class A
+    cout << "Friend function B::accessPrivateMember accessing private member of class A: " << objA.privateMemberA << endl;
+}
+
+int main() {
+    A objA;
+    B objB;
+
+    objA.display(); // Class A function accessing its own private member
+
+    objB.accessPrivateMember(objA); // Friend function B::accessPrivateMember accessing private member of class A
+
+    return 0;
+}
+```
 
 ### File Handling in C++:
 
