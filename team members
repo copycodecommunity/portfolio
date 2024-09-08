@@ -30,16 +30,6 @@
       "email": "sahilk@copycodecommunity.org"
    },
    {
-      "name": "Musab Hussain",
-      "role": "Management Lead",
-      "image": "https://media.licdn.com/dms/image/C5603AQFD59QUINHy5w/profile-displayphoto-shrink_200_200/0/1658388913016?e=1710374400&v=beta&t=m3drpNQh-RNb9V1hLGTeVPcCGY4Nm6fF8D06VoBfAOE",
-      "insta": "https://www.instagram.com/Iammmusab/",
-      "LinkedIn": "https://www.linkedin.com/in/musab-hussain-7a81b7227",
-      "GitHub": "https://github.com/iammusab/",
-      "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
-      "email": "sahilk@copycodecommunity.org"
-   },
-   {
       "name": "Azmatun Nisa",
       "role": "Technical Co-Lead",
       "image": "https://media.licdn.com/dms/image/D5603AQHfj_dF8i815w/profile-displayphoto-shrink_200_200/0/1704994897231?e=1711584000&v=beta&t=UWsQ9dPJsrij1EQHG3HkwqcEH1P16UwP40fRoZG_ksY",
@@ -56,16 +46,6 @@
       "insta": "https://www.instagram.com/myraalikhann",
       "LinkedIn": "https://www.linkedin.com/in/myra-ali-khan-0b734128a/",
       "GitHub": "https://github.com/myraalikhan",
-      "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
-      "email": "sahilk@copycodecommunity.org"
-   },
-   {
-      "name": "Mazhar Saifi",
-      "role": "Technical Member",
-      "image": "https://media.licdn.com/dms/image/D4D03AQF9xPyLmRI0Og/profile-displayphoto-shrink_200_200/0/1697706116379?e=1709769600&v=beta&t=9Ft_rPJh8D2rbk72b6yPLwaLsBaKA8MHZwn_xMpiqQc",
-      "insta": "https://www.instagram.com/mazzy_pvt_",
-      "LinkedIn": "https://www.linkedin.com/in/saifimazhar8",
-      "GitHub": "https://github.com/twister904",
       "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
       "email": "sahilk@copycodecommunity.org"
    },
@@ -149,14 +129,4 @@
       "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
       "email": "sahilk@copycodecommunity.org"
    },
-   {
-      "name": "Aditya Kumar",
-      "role": "Management Team",
-      "image": "https://media.licdn.com/dms/image/D5603AQErkyoEdwQgoQ/profile-displayphoto-shrink_200_200/0/1699339967627?e=1709769600&v=beta&t=ZPoqXsNoh_MO3K8YsLSnHSj7RgfsrpLehXj5UpQJMAo",
-      "insta": "https://www.instagram.com/retardreaction",
-      "LinkedIn": "https://www.linkedin.com/in/aditya-pal-896b13299",
-      "GitHub": "https://github.com/Ravenical",
-      "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
-      "email": "sahilk@copycodecommunity.org"
-   }
 ]
