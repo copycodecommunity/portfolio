@@ -30,16 +30,6 @@
       "email": "sahilk@copycodecommunity.org"
    },
    {
-      "name": "Azmatun Nisa",
-      "role": "Technical Co-Lead",
-      "image": "https://media.licdn.com/dms/image/D5603AQHfj_dF8i815w/profile-displayphoto-shrink_200_200/0/1704994897231?e=1711584000&v=beta&t=UWsQ9dPJsrij1EQHG3HkwqcEH1P16UwP40fRoZG_ksY",
-      "insta": "https://www.instagram.com/zahrakhan11794/",
-      "LinkedIn": "https://www.linkedin.com/in/azmatun-nisa-874815284",
-      "GitHub": "https://github.com/azmat11794",
-      "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
-      "email": "sahilk@copycodecommunity.org"
-   },
-   {
       "name": "Myra Ali Khan",
       "role": "Managemnent Co-Lead",
       "image": "",
@@ -48,6 +38,71 @@
       "GitHub": "https://github.com/myraalikhan",
       "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
       "email": "sahilk@copycodecommunity.org"
+   },
+   {
+      "name": "Mohammad Faizan",
+      "role": "Technical team member",
+      "image": "https://lh3.google.com/u/2/d/12B08wIBTPLLgXJz6eF5sAAM7EhYOShuy=k",
+      "insta": "https://www.instagram.com/mohd_f4izan/profilecard/?igsh=OWRrcTU5ZGNxc3ls",
+      "LinkedIn": "https://www.linkedin.com/in/mohammad-faizan-b58918234?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "GitHub": "https://github.com/myraalikhan",
+      "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
+      "email": "blenderking79@gmail.com"
+   },
+   {
+      "name": "Ummam Tahreem",
+      "role": "Social handler and Photographer",
+      "image": "https://lh3.google.com/u/2/d/1hkIlqiwB8GMN1hh5f6rqM-5GlJMA7v_k=k",
+      "GitHub": "https://github.com/ummamtahreem",
+      "LinkedIn": "https://www.linkedin.com/in/ummam-tahreem-430216330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "insta": "https://www.instagram.com/invites/contact/?igsh=oxcqd2ghnq4y&utm_content=3jyyo7g",
+      "bio": "I'm Ummam Tahreem from B.Tech (CSE) and I'm part of the Copy Code Community as a social handler and photographer.",
+      "email": "ummamtahreem@gmail.com"
+   },
+   {
+      "name": "MD Adnan Mahfooz",
+      "role": "Graphic Designer",
+      "image": "https://lh3.google.com/u/2/d/1H1wgl-3IJKVuYBR6egaLUdzivKDFi71j=k",
+      "LinkedIn": "https://www.linkedin.com/in/mdadnanmahfooz",
+      "insta": "https://www.instagram.com/invites/contact/?igsh=1rnp23vpc7my9&utm_content=3xeiv3i",
+      "bio": "I'm MD Adnan Mahfooz, currently a 2nd-year B.Tech Computer Science student at Jamia Hamdard. Passionate about coding, graphic designing, and research.",
+      "email": "adnanmahfooz545@gmail.com"
+   },
+   {
+      "name": "Alisha Iraqui",
+      "role": "Content Writer",
+      "image": "https://drive.google.com/open?id=1N8dAN7kybguf-UdMzAOLA6a58UB_5b9e",
+      "LinkedIn": "http://linkedin.com/in/alisha-iraqui-3b850531b",
+      "bio": "I have a passion for music, love to read, and occasionally enjoy expressing myself through writing.",
+      "email": "alishairaqui820@gmail.com"
+   },
+   {
+      "name": "Md Farhan Naushad",
+      "role": "Member of the Technical Team",
+      "image": "https://lh3.google.com/u/2/d/1QCu9i9FHtfJk_e6LkglH7g89ATsp7HoS=k",
+      "GitHub": "https://github.com/farhannaushad08",
+      "LinkedIn": "https://www.linkedin.com/in/md-farhan-naushad-b02456253/",
+      "insta": "https://www.instagram.com/farhannaushad08?igsh=c2ExZmJyM3pnd3o2",
+      "bio": "I'm a third-year B.Tech student in Computer Science and Engineering with a strong understanding of machine learning algorithms.",
+      "email": "farhannaushad08@gmail.com"
+   },
+   {
+      "name": "Md Muzammil Abdin",
+      "role": "Member of Technical Team",
+      "image": "https://lh3.google.com/u/2/d/1nc5zpzDlvY_YSfHNeOR8enl16JVvgrI1=k",
+      "LinkedIn": "https://www.linkedin.com/in/mdmuzammilabdin/",
+      "insta": "https://www.instagram.com/mr._bob_.__/",
+      "bio": "I am a B.Tech Computer Science and Engineering student at Jamia Hamdard with a strong foundation in programming and technology.",
+      "email": "muzammilabdin297@gmail.com"
+   },
+   {
+      "name": "Heena Shaikh",
+      "role": "Student",
+      "image": "https://lh3.google.com/u/2/d/1UhqPexi84k7N-96J7zXGW2D5Q1HSxzQy=k",
+      "GitHub": "https://github.com/HeenaShaikh09",
+      "LinkedIn": "https://www.linkedin.com/in/heena-shaikh-096810259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+      "bio": "I am a MCA 1st year student interested in web development, data analytics, and programming languages like C++, Python, and Java.",
+      "email": "heenashaikh8331@gmail.com"
    },
    {
       "name": "Sukaina inam naqvi",
@@ -95,26 +150,6 @@
       "image": "https://github.com/copycodecommunity/portfolio/blob/main/images/teams/hayat.jpg?raw=true",
       "insta": "https://www.instagram.com/aggregate__hayat/",
       "LinkedIn": "https://www.linkedin.com/in/hayat-ali-ansari-943756269",
-      "GitHub": "",
-      "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
-      "email": "sahilk@copycodecommunity.org"
-   },
-   {
-      "name": "Maryam Abid",
-      "role": "Managemnent Team",
-      "image": "",
-      "insta": "https://www.instagram.com/maryam.abid._",
-      "LinkedIn": "",
-      "GitHub": "",
-      "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
-      "email": "sahilk@copycodecommunity.org"
-   },
-   {
-      "name": "Uzaima Siddiqui",
-      "role": "Management Team",
-      "image": "https://instagram.fdel64-1.fna.fbcdn.net/v/t51.2885-19/407294015_263295156741317_1556219669279621408_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fdel64-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=o2PSQGtYXVIAX8snb5s&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfDtjVub2bNYPvbvIUmP7d7mWjnhY_SQEGQXQxouLBktYA&oe=659D75F9&_nc_sid=8b3546",
-      "insta": "https://www.instagram.com/uuhhhmaiza",
-      "LinkedIn": "https://www.linkedin.com/in/umaiza-siddiqui-02b819280",
       "GitHub": "",
       "bio": "I am a 2nd year student at the University of Maryland, College Park majoring in Computer Science and minoring in Mathematics",
       "email": "sahilk@copycodecommunity.org"
