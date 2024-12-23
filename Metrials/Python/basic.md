@@ -8,6 +8,7 @@ print("Hello, World!")
 ```
 
 ### Variables:
+
 ```python
 num = 10            # Integer
 floatNum = 3.14     # Floating-point
